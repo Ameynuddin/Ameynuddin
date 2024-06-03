@@ -13,6 +13,8 @@
 
 - 🤝 Looking for opportunities in **open source code contributions**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Ameynuddin/projects](https://github.com/Ameynuddin/projects)
+
 - 📫 Reach me at **md.ameynuddin@gmail.com**
 
 - ⚡ Fun fact: **a chemical engineering graduate who has always been passionate in coding**
