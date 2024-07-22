@@ -1,5 +1,5 @@
 <h1 align="center">Good day👋, I'm Ameynuddin</h1>
-<h3 align="center">Aspiring full stack developer transitioning from chemical engineering, adept at modern web technologies and problem-solving with strong teamwork skills.</h3>
+<h3 align="center">Aspiring full stack developer, adept at modern web technologies with strong problem-solving, analytical and teamwork skills.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameynuddin&label=Profile%20views&color=0e75b6&style=flat" alt="ameynuddin" /> </p>
 
