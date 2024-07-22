@@ -7,7 +7,7 @@
 
 - 🔭 Currently enrolled in **Full Stack Developer Bootcamp**
 
-- 🌱 Currently learning **Docker, Redis, Tailwind, PostgreSQL, Flutter**
+- 🌱 Currently learning **Tailwind, PostgreSQL, Flutter**
 
 - 👯 To acquire hands-on experience with **modern web technologies and collaborative project work**
 
