@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameynuddin" alt="ameynuddin" /></a> </p> -->
 
-- 🔭 Currently looking for **Web/Software Developer** role
+- 🔭 Currently looking for **Software Developer/Engineer** role
 
 - 🌱 Recently enrolled in **Full Stack Developer Bootcamp**
 
