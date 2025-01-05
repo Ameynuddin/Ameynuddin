@@ -7,7 +7,7 @@
 
 - 🔭 Currently looking for **Software Developer/Engineer** role
 
-- 🌱 Recently enrolled in **Full Stack Developer Bootcamp**
+<!-- - 🌱 Recently enrolled in **Full Stack Developer Bootcamp** -->
 
 - 👯 To acquire hands-on experience with **modern web technologies and collaborative project work**
 
